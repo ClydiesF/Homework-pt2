@@ -1,0 +1,14 @@
+/** STYLING FOR THE IMAGE GALERY **/ 
+
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+   
+}
+h2 {
+    margin: 1.66%;
+    font-family: 'Raleway', sans-serif;
+    border-bottom: solid 2px #f1f1f1;
+    width: 30%;
+}
